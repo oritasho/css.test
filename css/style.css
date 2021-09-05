@@ -1,0 +1,32 @@
+.copy{
+  background: url(../img/firstview.jpg)no-repeat top;
+  background-size: cover;
+}
+
+
+.about{
+  text-align:center;
+}
+
+h2{
+  text-align: center;
+}
+
+.flex__item{
+  display: flex;
+  justify-content: space-around;
+}
+
+.practice__card {
+  width: 30%;
+}
+
+.card__img img {
+  width: 100%;
+}
+
+.card__content {
+  padding: 15px 0 0 0;
+}
+
+
